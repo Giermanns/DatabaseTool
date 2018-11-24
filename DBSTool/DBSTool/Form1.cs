@@ -30,6 +30,7 @@ namespace DBSTool
                 "Update",
                 "Select",
                 "Delete"});
+            this.comboBox1.Items();
         }
     }
 }
